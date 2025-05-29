@@ -9,6 +9,6 @@ Within the rainfall runoff experiment, findings denote that an elevation or tilt
 Within the pavement optimisation review and investigation of this project, geosynthetics have been the primary focus of approaches and materials to be utilised within solutions. 
 
 Similarly, within the scouring optimisation review and investigation of this project, the approaches to be proposed via market research and comparisons include:
- • Reinforced Turf Mat
- • Geocell
- • Geotextile Sand Container
+- Reinforced Turf Mat
+- Geocell
+- Geotextile Sand Container
